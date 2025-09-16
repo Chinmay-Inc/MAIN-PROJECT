@@ -16,7 +16,7 @@ yfinance>=0.2.41
 matplotlib>=3.9.1
 
 # Authentication for Streamlit
-streamlit-authenticator>=0.5.1
+streamlit-authenticator==0.4.2
 
 # PDF generation
 reportlab>=4.0
