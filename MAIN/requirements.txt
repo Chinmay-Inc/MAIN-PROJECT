@@ -20,3 +20,4 @@ streamlit-authenticator==0.4.2
 
 # PDF generation
 reportlab>=4.0
+plotly>=5.22.0
